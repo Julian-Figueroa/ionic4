@@ -1,1 +1,1 @@
-Ionic 4 Project where all it's components will be covered 
+Ionic 4 Project where all its components will be covered 
